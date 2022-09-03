@@ -3,6 +3,9 @@ Inital attempt at upgrading for WoTLK.
 
 Will be only working on classes I play. 
 
+---
+
+
 
 
 All releases will be done on Curse.com and WoWInterface.com so grab it from wherever you prefer.
