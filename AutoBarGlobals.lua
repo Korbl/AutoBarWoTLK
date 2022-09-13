@@ -436,7 +436,7 @@ end
 -- WoW Classic
 --
 -------------------------------------------------------------------
-if (AutoBarGlobalDataObject.is_vanilla_wow or AutoBarGlobalDataObject.is_bcc_wow  or AutoBarGlobalDataObject.is_wrath_classic) then
+if (AutoBarGlobalDataObject.is_vanilla_wow or AutoBarGlobalDataObject.is_bcc_wow or AutoBarGlobalDataObject.is_wrath_classic) then
 
 	function AutoBarGlobalCodeSpace.InfoFromGUID(p_guid)
 		return AutoBarSearch.macro_text[p_guid];
