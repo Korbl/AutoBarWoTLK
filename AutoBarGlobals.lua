@@ -39,6 +39,7 @@ AutoBarGlobalDataObject = {
 	is_mainline_wow = (WOW_PROJECT_ID == WOW_PROJECT_MAINLINE),
 	is_vanilla_wow = (WOW_PROJECT_ID == WOW_PROJECT_CLASSIC),
 	is_bcc_wow = (WOW_PROJECT_ID == WOW_PROJECT_BURNING_CRUSADE_CLASSIC),
+	is_wrath_classic = (WOW_PROJECT_ID == WOW_PROJECT_WRATH_CLASSIC)
 
 }
 
@@ -435,7 +436,7 @@ end
 -- WoW Classic
 --
 -------------------------------------------------------------------
-if (AutoBarGlobalDataObject.is_vanilla_wow or AutoBarGlobalDataObject.is_bcc_wow) then
+if (AutoBarGlobalDataObject.is_vanilla_wow or AutoBarGlobalDataObject.is_bcc_wow  or AutoBarGlobalDataObject.is_wrath_classic) then
 
 	function AutoBarGlobalCodeSpace.InfoFromGUID(p_guid)
 		return AutoBarSearch.macro_text[p_guid];
