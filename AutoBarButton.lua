@@ -2246,6 +2246,7 @@ if (ABGData.is_vanilla_wow or ABGData.is_bcc_wow or ABGData.is_wrath_classic) th
 		self:AddCategory("Muffin.Mounts.Item")
 		self:AddCategory("Muffin.Mounts.Paladin")
 		self:AddCategory("Muffin.Mounts.Warlock")
+		self:AddCategory("Muffin.Mounts.DeathKnight")
 	end
 
 

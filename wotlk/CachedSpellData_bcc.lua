@@ -23,12 +23,22 @@ ABGCS.CacheSpellData(9634, "Dire Bear Form");
 ABGCS.CacheSpellData(768, "Cat Form");
 ABGCS.CacheSpellData(1066, "Aquatic Form");
 ABGCS.CacheSpellData(24858, "Moonkin Form");
---ABGCS.CacheSpellData(775, "Tree Form");
+ABGCS.CacheSpellData(775, "Tree Form");
 ABGCS.CacheSpellData(783, "Travel Form");
 ABGCS.CacheSpellData(33943, "Flight Form");
 ABGCS.CacheSpellData(40120, "Swift Flight Form");
 ABGCS.CacheSpellData(18960, "Teleport: Moonglade");
 
+--DeathKnight
+ABGCS.CacheSpellData(48265, "Unholy Presence");
+ABGCS.CacheSpellData(48263, "Frost Presence");
+ABGCS.CacheSpellData(48266, "Blood Presence");
+ABGCS.CacheSpellData(48707, "Anti-Magic Shell");
+ABGCS.CacheSpellData(3714, "Path of Frost");
+ABGCS.CacheSpellData(57330, "Horn of Winter");
+ABGCS.CacheSpellData(56222, "Dark Command");
+ABGCS.CacheSpellData(45529, "Blood Tap");
+ABGCS.CacheSpellData(48792, "Icebound Fortitude");
 
 --#region Hunter
 ABGCS.CacheSpellData(5118, "Aspect of the Cheetah");
