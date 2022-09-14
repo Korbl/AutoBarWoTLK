@@ -326,7 +326,7 @@ function AutoBar:InitializeDefaults()
 			{button_name = "AutoBarButtonClassBuff", },
 			{button_name = "AutoBarButtonStance", project_id = WOW_PROJECT_CLASSIC},
 			{button_name = "AutoBarButtonStance", project_id = WOW_PROJECT_BURNING_CRUSADE_CLASSIC},
-			{button_name = "AutoBarButtonAquatic", project_id = WOW_PROJECT_WRATH_CLASSIC},
+			{button_name = "AutoBarButtonStance", project_id = WOW_PROJECT_WRATH_CLASSIC},
 			{button_name = "AutoBarButtonShields", },
 			{button_name = "AutoBarButtonInterrupt", },
 			{button_name = "AutoBarButtonER", },
