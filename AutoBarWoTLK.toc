@@ -1,5 +1,5 @@
 ## Interface: 20504
-## Title: AutoBarBCC
+## Title: AutoBarwotlk
 ## Author: Korbl (wotlk classic ) MuffinManKen, Maggz,  Toadkiller (Original code)
 ## Version: 2.05.4.00
 ## Notes: Dynamic bars with buttons that automatically add potions, water, food and other items you specify into a button for use. Does not use action slots.
@@ -22,24 +22,24 @@ embeds.xml
 libs/muffin_ui_toolkit.lua
 libs/muffin_whats_new.lua
 
-bcc/MuffinLibPTSets/LibPT-Muffin.Elixirs.lua
-bcc/MuffinLibPTSets/LibPT-Muffin.Explosives.lua
-bcc/MuffinLibPTSets/LibPT-Muffin.Flasks.lua
-bcc/MuffinLibPTSets/LibPT-Muffin.Food.lua
-bcc/MuffinLibPTSets/LibPT-Muffin.Gear.lua
-bcc/MuffinLibPTSets/LibPT-Muffin.Misc.lua
-bcc/MuffinLibPTSets/LibPT-Muffin.Mounts.lua
-bcc/MuffinLibPTSets/LibPT-Muffin.Poison.lua
-bcc/MuffinLibPTSets/LibPT-Muffin.Potions.lua
-bcc/MuffinLibPTSets/LibPT-Muffin.Skill.Fishing.lua
-bcc/MuffinLibPTSets/LibPT-Muffin.Stones.lua
+wotlk/MuffinLibPTSets/LibPT-Muffin.Elixirs.lua
+wotlk/MuffinLibPTSets/LibPT-Muffin.Explosives.lua
+wotlk/MuffinLibPTSets/LibPT-Muffin.Flasks.lua
+wotlk/MuffinLibPTSets/LibPT-Muffin.Food.lua
+wotlk/MuffinLibPTSets/LibPT-Muffin.Gear.lua
+wotlk/MuffinLibPTSets/LibPT-Muffin.Misc.lua
+wotlk/MuffinLibPTSets/LibPT-Muffin.Mounts.lua
+wotlk/MuffinLibPTSets/LibPT-Muffin.Poison.lua
+wotlk/MuffinLibPTSets/LibPT-Muffin.Potions.lua
+wotlk/MuffinLibPTSets/LibPT-Muffin.Skill.Fishing.lua
+wotlk/MuffinLibPTSets/LibPT-Muffin.Stones.lua
 
 AceGUIWidget-DragLink.lua
 
 AutoBarGlobals.lua
 
-bcc/CachedSpellData_bcc.lua
-bcc/whats_new.lua
+wotlk/CachedSpellData_wotlk.lua
+wotlk/whats_new.lua
 
 # Localization
 locale/Locale-enUS.lua
@@ -72,7 +72,7 @@ AutoBarClassPopupButton.lua
 AutoBarButton.lua
 AutoBarCategory.lua
 
-bcc/ABCategoryData_bcc.lua
+wotlk/ABCategoryData_wotlk.lua
 
 AutoBarConfig.lua
 
