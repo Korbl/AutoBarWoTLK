@@ -41,6 +41,12 @@ ABGCS.CacheSpellData(56222, "Dark Command");
 ABGCS.CacheSpellData(45529, "Blood Tap");
 ABGCS.CacheSpellData(48792, "Icebound Fortitude");
 ABGCS.CacheSpellData(49576, "Death Grip");
+ABGCS.CacheSpellData(48982, "Rune Tap");
+ABGCS.CacheSpellData(55233, "Vampiric Blood");
+ABGCS.CacheSpellData(47476, "Strangulate");
+ABGCS.CacheSpellData(47528, "Mind Freeze");
+ABGCS.CacheSpellData(46584, "Raise Dead");
+ABGCS.CacheSpellData(49206, "Summon Gargoyle");
 
 --#region Hunter
 ABGCS.CacheSpellData(5118, "Aspect of the Cheetah");
