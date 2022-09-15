@@ -29,7 +29,7 @@ ABGCS.CacheSpellData(33943, "Flight Form");
 ABGCS.CacheSpellData(40120, "Swift Flight Form");
 ABGCS.CacheSpellData(18960, "Teleport: Moonglade");
 
---DeathKnight
+--#region DeathKnight
 ABGCS.CacheSpellData(48265, "Unholy Presence");
 ABGCS.CacheSpellData(48263, "Frost Presence");
 ABGCS.CacheSpellData(48266, "Blood Presence");
@@ -47,6 +47,8 @@ ABGCS.CacheSpellData(47476, "Strangulate");
 ABGCS.CacheSpellData(47528, "Mind Freeze");
 ABGCS.CacheSpellData(46584, "Raise Dead");
 ABGCS.CacheSpellData(49206, "Summon Gargoyle");
+ABGCS.CacheSpellData(50977, "Death Gate");
+--endregion
 
 --#region Hunter
 ABGCS.CacheSpellData(5118, "Aspect of the Cheetah");
