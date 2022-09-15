@@ -310,10 +310,11 @@ function AutoBar:InitializeDefaults()
 	-- A list of all buttons on the class bar that a class should have
 	local class_button_map =
 	{
-		DEATHKNIGHT = {
+		DEATHKNIGHT =
+		{
+			{button_name = "AutoBarButtonShields", },
 			{button_name = "AutoBarButtonClassBuff", },
 			{button_name = "AutoBarButtonClassPet", },
-			{button_name = "AutoBarButtonShields", },
 			{button_name = "AutoBarButtonStance", },
 			{button_name = "AutoBarButtonCharge", },
 			{button_name = "AutoBarButtonER", },

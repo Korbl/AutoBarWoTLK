@@ -35,7 +35,7 @@ ABGCS.CacheSpellData(48263, "Frost Presence");
 ABGCS.CacheSpellData(48266, "Blood Presence");
 ABGCS.CacheSpellData(48707, "Anti-Magic Shell");
 ABGCS.CacheSpellData(3714, "Path of Frost");
-ABGCS.CacheSpellData(57330, "Horn of Winter");
+ABGCS.CacheSpellData(57623, "Horn of Winter");
 ABGCS.CacheSpellData(56222, "Dark Command");
 ABGCS.CacheSpellData(45529, "Blood Tap");
 ABGCS.CacheSpellData(48792, "Icebound Fortitude");
