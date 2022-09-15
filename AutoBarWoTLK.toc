@@ -1,4 +1,4 @@
-## Interface: 20504
+## Interface: 30400
 ## Title: AutoBarwotlk
 ## Author: Korbl (wotlk classic port) MuffinManKen, Maggz,  Toadkiller (Original code)
 ## Version: 2.05.4.00
