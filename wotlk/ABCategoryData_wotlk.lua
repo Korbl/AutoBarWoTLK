@@ -214,6 +214,7 @@ function ABGCode.InitializeCategories()
 		"WARRIOR", ABGCode.GetSpellNameByName("Berserker Stance"),
 		"DEATHKNIGHT", ABGCode.GetSpellNameByName("Blood Presence"),
 		"DEATHKNIGHT", ABGCode.GetSpellNameByName("Frost Presence"),
+		"DEATHKNIGHT", ABGCode.GetSpellNameByName("Unholy Presence"),
 	})
 
 	--AutoBarCategoryList["Spell.Seal"] = SpellsCategory:new( "Spell.Seal", spellIconList["Seal of the Crusader"], {
