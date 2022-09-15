@@ -4,16 +4,16 @@ Inital attempt at upgrading for WoTLK.
 slowly adding items/ablities. 
 
 Finished;
-DK Class Bar (I think)
-Elixirs
-Explosives
-Flasks
-Food
-Gear
+- DK Class Bar (I think)
+- Elixirs
+- Explosives
+- Flasks
+- Food
+- Gear
+
+Much thanks to MuffinMan for all the work he has done. 
 
 ---
-
-
 
 
 All releases will be done on Curse.com and WoWInterface.com so grab it from wherever you prefer.
