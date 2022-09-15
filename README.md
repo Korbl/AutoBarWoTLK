@@ -1,7 +1,15 @@
 
 Inital attempt at upgrading for WoTLK. 
 
-Will be only working on classes I play. 
+slowly adding items/ablities. 
+
+Finished;
+DK Class Bar (I think)
+Elixirs
+Explosives
+Flasks
+Food
+Gear
 
 ---
 
