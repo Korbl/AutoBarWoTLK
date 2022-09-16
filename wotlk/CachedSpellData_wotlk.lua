@@ -149,6 +149,9 @@ ABGCS.CacheSpellData(35715, "Teleport: Shattrath - Horde");
 --#region Paladin
 ABGCS.CacheSpellData(498, "Divine Protection");
 ABGCS.CacheSpellData(642, "Divine Shield");
+ABGCS.CacheSpellData(1022, "Hand of Protection");
+ABGCS.CacheSpellData(6940, "Hand of Sacrifice");
+ABGCS.CacheSpellData(1038, "Hand of Salvation");
 ABGCS.CacheSpellData(1044, "Blessing of Freedom");
 ABGCS.CacheSpellData(1022, "Blessing of Protection");
 ABGCS.CacheSpellData(6940, "Blessing of Sacrifice");
@@ -172,13 +175,14 @@ ABGCS.CacheSpellData(19876, "Shadow Resistance Aura");
 
 ABGCS.CacheSpellData(5502, "Sense Undead");
 
-ABGCS.CacheSpellData(20375, "Seal of Command");
+ABGCS.CacheSpellData(20168, "Seal of Wisdom");
 ABGCS.CacheSpellData(20164, "Seal of Justice");
 ABGCS.CacheSpellData(20165, "Seal of Light");
 ABGCS.CacheSpellData(20154, "Seal of Righteousness");
-ABGCS.CacheSpellData(21082, "Seal of the Crusader");
+ABGCS.CacheSpellData(348704, "Seal of Corruption");
+ABGCS.CacheSpellData(31801, "Seal of Vengeance");
 ABGCS.CacheSpellData(348700, "Seal of the Martyr");
-ABGCS.CacheSpellData(20166, "Seal of Wisdom");
+ABGCS.CacheSpellData(20375, "Seal of Command");
 --#endregion
 
 --#region Priest
