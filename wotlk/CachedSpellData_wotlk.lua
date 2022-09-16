@@ -153,12 +153,13 @@ ABGCS.CacheSpellData(1044, "Blessing of Freedom");
 ABGCS.CacheSpellData(1022, "Blessing of Protection");
 ABGCS.CacheSpellData(6940, "Blessing of Sacrifice");
 ABGCS.CacheSpellData(1038, "Blessing of Salvation");
+ABGCS.CacheSpellData(20217, "Blessing of Kings");
 ABGCS.CacheSpellData(25898, "Greater Blessing of Kings");
 ABGCS.CacheSpellData(19742, "Blessing of Wisdom");
 ABGCS.CacheSpellData(25894, "Greater Blessing of Wisdom");
 ABGCS.CacheSpellData(633, "Lay on Hands");
-
 ABGCS.CacheSpellData(19740, "Blessing of Might");
+ABGCS.CacheSpellData(25898, "Greater Blessing of Might");
 
 ABGCS.CacheSpellData(32223, "Crusader Aura");
 ABGCS.CacheSpellData(465, "Devotion Aura");
