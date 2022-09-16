@@ -159,7 +159,7 @@ ABGCS.CacheSpellData(19742, "Blessing of Wisdom");
 ABGCS.CacheSpellData(25894, "Greater Blessing of Wisdom");
 ABGCS.CacheSpellData(633, "Lay on Hands");
 ABGCS.CacheSpellData(19740, "Blessing of Might");
-ABGCS.CacheSpellData(25898, "Greater Blessing of Might");
+ABGCS.CacheSpellData(25916, "Greater Blessing of Might");
 
 ABGCS.CacheSpellData(32223, "Crusader Aura");
 ABGCS.CacheSpellData(465, "Devotion Aura");
