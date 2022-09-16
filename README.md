@@ -11,6 +11,9 @@ Finished;
 - Food
 - Gear
 
+thanks to Sandayver for cleainng up the Paladin spells. 
+
+
 Much thanks to MuffinMan for all the work he has done. 
 
 ---
