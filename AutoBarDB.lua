@@ -362,6 +362,8 @@ function AutoBar:InitializeDefaults()
 			{button_name = "AutoBarButtonTrack", project_id = WOW_PROJECT_CLASSIC},
 			{button_name = "AutoBarButtonSeal", project_id = WOW_PROJECT_BURNING_CRUSADE_CLASSIC},
 			{button_name = "AutoBarButtonTrack", project_id = WOW_PROJECT_BURNING_CRUSADE_CLASSIC},
+			{button_name = "AutoBarButtonSeal", project_id = WOW_PROJECT_WRATH_CLASSIC},
+			{button_name = "AutoBarButtonTrack", project_id = WOW_PROJECT_WRATH_CLASSIC},
 		},
 		PRIEST =
 		{

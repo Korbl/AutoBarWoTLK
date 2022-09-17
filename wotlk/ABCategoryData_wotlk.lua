@@ -93,7 +93,6 @@ function ABGCode.InitializeCategories()
 		"DRUID", ABGCode.GetSpellNameByName("Mark of the Wild"), ABGCode.GetSpellNameByName("Gift of the Wild"),
 		"DRUID", ABGCode.GetSpellNameByName("Thorns"), ABGCode.GetSpellNameByName("Thorns"),
 		"DEATHKNIGHT", ABGCode.GetSpellNameByName("Horn of Winter"), ABGCode.GetSpellNameByName("Horn of Winter"),
-		"PALADIN", ABGCode.GetSpellNameByName("Hand of Protection"), ABGCode.GetSpellNameByName("Hand of Protection"),
 		"PALADIN", ABGCode.GetSpellNameByName("Hand of Sacrifice"), ABGCode.GetSpellNameByName("Hand of Sacrifice"),
 		"PALADIN", ABGCode.GetSpellNameByName("Hand of Salvation"), ABGCode.GetSpellNameByName("Hand of Salvation"),
 		"PALADIN", ABGCode.GetSpellNameByName("Blessing of Kings"), ABGCode.GetSpellNameByName("Blessing of Kings"),
@@ -181,6 +180,7 @@ function ABGCode.InitializeCategories()
 		"MAGE", 			ABGCode.GetSpellNameByName("Ice Armor"), ABGCode.GetSpellNameByName("Ice Barrier"),
 		"MAGE", 			ABGCode.GetSpellNameByName("Mage Armor"), ABGCode.GetSpellNameByName("Ice Barrier"),
 		"MAGE", 			ABGCode.GetSpellNameByName("Molten Armor"), ABGCode.GetSpellNameByName("Ice Barrier"),
+		"PALADIN", 		ABGCode.GetSpellNameByName("Hand of Protection"), ABGCode.GetSpellNameByName("Hand of Protection"),
 		"PALADIN", 		ABGCode.GetSpellNameByName("Divine Protection"), ABGCode.GetSpellNameByName("Divine Shield"),
 		"PALADIN", 		ABGCode.GetSpellNameByName("Divine Shield"), ABGCode.GetSpellNameByName("Divine Protection"),
 		"PRIEST", 		ABGCode.GetSpellNameByName("Power Word: Shield"), ABGCode.GetSpellNameByName("Power Word: Shield"),
@@ -220,15 +220,16 @@ function ABGCode.InitializeCategories()
 		"DEATHKNIGHT", ABGCode.GetSpellNameByName("Unholy Presence"),
 	})
 
-	--AutoBarCategoryList["Spell.Seal"] = SpellsCategory:new( "Spell.Seal", spellIconList["Seal of the Crusader"], {
-		--"PALADIN", ABGCode.GetSpellNameByName("Seal of Command"),
-		--"PALADIN", ABGCode.GetSpellNameByName("Seal of Justice"),
-		--"PALADIN", ABGCode.GetSpellNameByName("Seal of Light"),
-		--"PALADIN", ABGCode.GetSpellNameByName("Seal of Righteousness"),
-		--"PALADIN", ABGCode.GetSpellNameByName("Seal of the Crusader"),
-		--"PALADIN", ABGCode.GetSpellNameByName("Seal of the Martyr"),
-		--"PALADIN", ABGCode.GetSpellNameByName("Seal of Wisdom"),
-	--})
+	AutoBarCategoryList["Spell.Seal"] = SpellsCategory:new( "Spell.Seal", spellIconList["Seal of the Crusader"], {
+		"PALADIN", ABGCode.GetSpellNameByName("Seal of Wisdom"),
+		"PALADIN", ABGCode.GetSpellNameByName("Seal of Justice"),
+		"PALADIN", ABGCode.GetSpellNameByName("Seal of Light"),
+		"PALADIN", ABGCode.GetSpellNameByName("Seal of Righteousness"),
+		"PALADIN", ABGCode.GetSpellNameByName("Seal of the Martyr"),
+		"PALADIN", ABGCode.GetSpellNameByName("Seal of Corruption"),
+		"PALADIN", ABGCode.GetSpellNameByName("Seal of Vengeance"),
+		"PALADIN", ABGCode.GetSpellNameByName("Seal of Command"),
+	})
 
 	AutoBarCategoryList["Spell.Totem.Earth"] = SpellsCategory:new("Spell.Totem.Earth", spellIconList["Earthgrab Totem"],
 	{
