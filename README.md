@@ -1,4 +1,8 @@
 
+Discontunied. Please use https://github.com/MuffinManKen/AutoBar
+
+
+
 Inital attempt at upgrading for WoTLK. 
 
 slowly adding items/ablities. 
